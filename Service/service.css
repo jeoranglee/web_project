@@ -1,7 +1,4 @@
 
-body {
-    padding-left: 50px;
-}
 
 .center {
     text-align: center;
@@ -16,6 +13,7 @@ body {
 }
 .Overview_icon {
     text-align: left;
+    padding-left: 40px;
 
 }
 
@@ -27,18 +25,18 @@ body {
     text-align: left;
     color: gray;
     font-size: 14px;
-    /* padding: 10px 30px 50px 10px; */
+    padding: 10px 20px 50px 40px;
 }
 
 .Service_background {
-    margin: 100px 0px 100px 0px;
-    padding: 70px 30px 100px 30px;
+    margin: 100px 40px 0px 40px;
+    padding: 70px 5px 100px 5px;
     background-color:#F2F2F2;
 }
 .service_photo {
     width: 250px;
     height:250px;
-    margin:0px 15px 40px 15px;
+    margin:0px 20px 40px 20px;
     border-radius:50%;
 }
 .service {
@@ -48,35 +46,49 @@ body {
 }
 .service_account {
     text-align: center;
-    font-size: 15px;
+    font-size: 14px;
     color: gray;
-    padding: 20px 5px 0px 5px;
+    padding: 20px 30px 0px 20px;
 }
 
 .stage_of_production {
     text-align: left;
+    margin: 130px 40px 130px 40px;
 }
 .stage_of_production_num {
     font-size: 60px;
 }
 .stage_of_production_title {
     text-align: left;
+    font-size: 18px;
 }
 .stage_of_production_account {
-    padding: 10px 20px 10px 20px;
+    text-align: left;
+    padding: 0px 20px 10px 20px;
+    font-size: 15px;
+    color: gray;
+}
+/* .together_box {
+    background-color: #D0A9F5;
+    width: 170px;
+    height: 200px;
+}
+.together {
+    font-size: 35px;
+    /* padding-left:30px; */
 }
 
 .consultation {
     background-color:#F2F2F2;
-    /* margin: 130px 40px 0px 40px;
-    padding: 50px 0px 50px 0px; */
+    margin: 130px 40px 0px 40px;
+    padding: 50px 0px 50px 0px;
 }
-.contact {
+/* .contact {
     border: none;
     background-color: purple;
     color: white;
     font-size: 20px;
-    /* padding: 10px 20px 10px 20px; */
+    padding: 10px 20px 10px 20px;
     border-radius: 20%;
-    /* margin: 10px 100px 0px 750px; */
-}
+    margin: 10px 100px 0px 750px;
+} */
