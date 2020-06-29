@@ -1,6 +1,7 @@
 
 
 .center {
+    margin-top: 100px;
     text-align: center;
     font-size: 20px;
 }
@@ -68,6 +69,8 @@
     font-size: 15px;
     color: gray;
 }
+
+
 /* .together_box {
     background-color: #D0A9F5;
     width: 170px;
@@ -75,20 +78,23 @@
 }
 .together {
     font-size: 35px;
-    /* padding-left:30px; */
-}
+    /* padding-left:30px;
+} */
+
 
 .consultation {
-    background-color:#F2F2F2;
-    margin: 130px 40px 0px 40px;
-    padding: 50px 0px 50px 0px;
+    background-color: #F2F2F2;
+    margin: 0px 40px 0px 40px;
+    padding: 40px 5px 40px 5px;
 }
-/* .contact {
-    border: none;
-    background-color: purple;
+
+.contact_us {
+    padding: 10px 30px 10px 30px;
     color: white;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    border-radius: 20%;
-    margin: 10px 100px 0px 750px;
-} */
+    background-color: #7401DF;
+    border-radius:25px;
+    margin-left: 400px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
